@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "705738228084",
+    "firebase_url": "https://samplechat-f7606.firebaseio.com",
+    "project_id": "samplechat-f7606",
+    "storage_bucket": "samplechat-f7606.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705738228084:android:38611d8178764173",
+        "android_client_info": {
+          "package_name": "com.bitfitprivatelimited.samplechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705738228084-s3e9i1qiv8rctblcg61bi9ksblbnuhd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXleasFP3yd843AUKdpWW_AVEIo4-3joQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
